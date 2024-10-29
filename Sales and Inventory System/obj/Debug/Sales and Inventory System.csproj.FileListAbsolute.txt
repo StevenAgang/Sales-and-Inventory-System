@@ -1,0 +1,14 @@
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Startup.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Login.resources

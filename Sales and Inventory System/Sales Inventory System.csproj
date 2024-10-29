@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1C9A80B8-7A63-4AA8-B897-A61C45C76B9F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sales_and_Inventory_System</RootNamespace>
+    <AssemblyName>Sales and Inventory System</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.9.0.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.9.0\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b" />
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextBox">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.2.3\lib\net40\Bunifu.UI.WinForms.BunifuTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Utils, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.Utils.1.0.6\lib\net\Bunifu.Utils.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\Sales &amp; Inventory System files\Bunifu_UI_v1.5.3\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Ribbon">
+      <HintPath>..\..\..\Sales &amp; Inventory System files\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>..\..\..\Sales &amp; Inventory System files\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.19.4.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.19.4\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\Sales &amp; Inventory System files\Guna.UI-Framework-Lib-master\Guna.UI-Framework-Lib-master\Guna.UI WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.2.3, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.2.3\lib\net40\Guna.UI2.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.1.2.6\lib\net46\K4os.Compression.LZ4.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Compression.LZ4.Streams, Version=1.2.6.0, Culture=neutral, PublicKeyToken=2186fa9121ef231d, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Compression.LZ4.Streams.1.2.6\lib\net46\K4os.Compression.LZ4.Streams.dll</HintPath>
+    </Reference>
+    <Reference Include="K4os.Hash.xxHash, Version=1.0.6.0, Culture=neutral, PublicKeyToken=32cd54395057cec3, processorArchitecture=MSIL">
+      <HintPath>..\packages\K4os.Hash.xxHash.1.0.6\lib\net46\K4os.Hash.xxHash.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1001\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.31.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.31\lib\net48\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlBackup, Version=2.3.7.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlBackup.NET.2.3.7\lib\net48\MySqlBackup.dll</HintPath>
+    </Reference>
+    <Reference Include="MySqlConnector, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySqlConnector.2.1.13\lib\net471\MySqlConnector.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.5.0.1\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.AccessControl, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.6.0.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Permissions, Version=7.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Permissions.7.0.0\lib\net462\System.Security.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.3.0\lib\portable-net45+win8+wp8+wpa81\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="ZstdNet, Version=1.4.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.31\lib\net48\ZstdNet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="account_manage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="account_manage.Designer.cs">
+      <DependentUpon>account_manage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="account_view.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="account_view.Designer.cs">
+      <DependentUpon>account_view.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add item.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add item.Designer.cs">
+      <DependentUpon>Add item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_stock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_stock.Designer.cs">
+      <DependentUpon>admin_stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_transaction_history.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_transaction_history.Designer.cs">
+      <DependentUpon>admin_transaction_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="data.Designer.cs">
+      <DependentUpon>data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseConnection.cs" />
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_histiory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="login_histiory.Designer.cs">
+      <DependentUpon>login_histiory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="product_management_control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="product_management_control.Designer.cs">
+      <DependentUpon>product_management_control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProgressBars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgressBars.Designer.cs">
+      <DependentUpon>ProgressBars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="request.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="request.Designer.cs">
+      <DependentUpon>request.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sales_management_control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="sales_management_control.Designer.cs">
+      <DependentUpon>sales_management_control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="staff.Designer.cs">
+      <DependentUpon>staff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Startup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Startup.Designer.cs">
+      <DependentUpon>Startup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_supplier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="admin_supplier.Designer.cs">
+      <DependentUpon>admin_supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supplier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="supplier.Designer.cs">
+      <DependentUpon>supplier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="transaction_history.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaction_history.Designer.cs">
+      <DependentUpon>transaction_history.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateEventArgs.cs" />
+    <Compile Include="user_information.cs" />
+    <EmbeddedResource Include="account_manage.resx">
+      <DependentUpon>account_manage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="account_view.resx">
+      <DependentUpon>account_view.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add item.resx">
+      <DependentUpon>Add item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_stock.resx">
+      <DependentUpon>admin_stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_transaction_history.resx">
+      <DependentUpon>admin_transaction_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="data.resx">
+      <DependentUpon>data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login_histiory.resx">
+      <DependentUpon>login_histiory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="product_management_control.resx">
+      <DependentUpon>product_management_control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressBars.resx">
+      <DependentUpon>ProgressBars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="request.resx">
+      <DependentUpon>request.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sales_management_control.resx">
+      <DependentUpon>sales_management_control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="staff.resx">
+      <DependentUpon>staff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Startup.resx">
+      <DependentUpon>Startup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_supplier.resx">
+      <DependentUpon>admin_supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supplier.resx">
+      <DependentUpon>supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaction_history.resx">
+      <DependentUpon>transaction_history.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="AppExample.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front_logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\front_logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown_30px_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_24px3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_64px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money_64px_green2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product_64px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\product_64px_green2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\supplier_50px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\supplier_50px_green2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_50pxGREEN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\list_64pxgreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_50pxgreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\account_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_24pxgreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\base.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moderately strong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\strong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\weak.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notification_144px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notification_144px green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown_480pxgreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown_480pxwhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_384px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\natural_user_interface_2_480px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test_account_480px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notopen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test_account_1480px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test_account_480px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_96px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\support_480px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\support_480pxwhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_window_144px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upload_208px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upload_208pxgreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_backup_208px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_backup_208pxwhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inquiry_512px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inquiry_512pxgreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+    <None Include="Resources\loading-gif.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

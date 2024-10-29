@@ -1,0 +1,515 @@
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.Sales and Inventory System.exe.config
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Admin.resources
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Login.resources
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.staff.resources
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Startup.resources
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.GenerateResource.Cache
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI2.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Siticone.Desktop.UI.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Zstandard.Net.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\Renci.SshNet.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.xml
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.product_management_control.resources
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.sales_management_control.resources
+D:\Sales & Inventory System files\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.supplier.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.Utils.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI2.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Renci.SshNet.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Add_item.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Admin.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Login.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.product_management_control.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.sales_management_control.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.staff.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Startup.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.supplier.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe.licenses
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.transaction_history.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_stock.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_transaction_history.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_manage.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.login_histiory.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.Utils.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI2.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Ubiety.Dns.Core.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Renci.SshNet.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.AssemblyReference.cache
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_manage.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Add_item.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Admin.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_stock.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_transaction_history.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Login.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.login_histiory.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.product_management_control.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.sales_management_control.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.staff.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Startup.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.supplier.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.transaction_history.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.GenerateResource.cache
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe.licenses
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CopyComplete
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Zstandard.Net.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.AssemblyReference.cache
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe.config
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CopyComplete
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.Utils.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI2.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Zstandard.Net.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Ubiety.Dns.Core.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Renci.SshNet.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Memory.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.xml
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.AssemblyReference.cache
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe.config
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_manage.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Add_item.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Admin.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_stock.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_transaction_history.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Login.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.login_histiory.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.product_management_control.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.sales_management_control.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.staff.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Startup.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.supplier.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.transaction_history.resources
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.GenerateResource.cache
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe.licenses
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CopyComplete
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+D:\Visual Studio 2015\Sales and Inventory System_backup_version_1.2\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.Utils.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI2.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlBackup.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlConnector.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Memory.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.AccessControl.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Permissions.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Principal.Windows.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\ZstdNet.dll
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.pdb
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlConnector.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Memory.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.AccessControl.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Permissions.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Principal.Windows.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.AssemblyReference.cache
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_manage.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_view.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Add_item.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Admin.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_stock.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_transaction_history.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.data.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Login.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.login_histiory.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.product_management_control.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.ProgressBars.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.request.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.sales_management_control.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.staff.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Startup.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_supplier.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.supplier.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.transaction_history.resources
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.GenerateResource.cache
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe.licenses
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CopyComplete
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.AssemblyReference.cache
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.ResolveComReference.cache
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_manage.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_view.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Add_item.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Admin.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_stock.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_transaction_history.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.data.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Login.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.login_histiory.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.product_management_control.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.ProgressBars.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.request.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.sales_management_control.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.staff.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Startup.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_supplier.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.supplier.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.transaction_history.resources
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.GenerateResource.cache
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe.licenses
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.Utils.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI2.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlBackup.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlConnector.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Memory.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Numerics.Vectors.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.AccessControl.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Permissions.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Principal.Windows.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\ZstdNet.dll
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.pdb
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlConnector.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Memory.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Numerics.Vectors.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.AccessControl.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Permissions.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Principal.Windows.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CopyComplete
+D:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.AssemblyReference.cache
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_manage.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_view.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Add_item.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Admin.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_stock.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_transaction_history.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.data.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Login.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.login_histiory.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.product_management_control.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.ProgressBars.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.request.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.sales_management_control.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.staff.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Startup.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_supplier.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.supplier.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.transaction_history.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.GenerateResource.cache
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe.licenses
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.Utils.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI2.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlBackup.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlConnector.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Memory.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Numerics.Vectors.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.AccessControl.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Permissions.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Principal.Windows.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\ZstdNet.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.pdb
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlConnector.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Memory.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Numerics.Vectors.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.AccessControl.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Permissions.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Principal.Windows.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales In.69A092D0.Up2Date
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe.config
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.exe
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Sales and Inventory System.pdb
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.Utils.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Guna.UI2.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlBackup.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlConnector.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Memory.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Numerics.Vectors.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.AccessControl.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Permissions.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Principal.Windows.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\ZstdNet.dll
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\BouncyCastle.Crypto.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.pdb
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\Google.Protobuf.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\K4os.Hash.xxHash.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySql.Data.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\MySqlConnector.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Buffers.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Memory.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Numerics.Vectors.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.AccessControl.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Permissions.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Security.Principal.Windows.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.AssemblyReference.cache
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_manage.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.account_view.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Add_item.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Admin.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_stock.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_transaction_history.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.data.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Login.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.login_histiory.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.product_management_control.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.ProgressBars.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.request.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.sales_management_control.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.staff.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Properties.Resources.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.Startup.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.admin_supplier.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.supplier.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales_and_Inventory_System.transaction_history.resources
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.GenerateResource.cache
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe.licenses
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales Inventory System.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales In.69A092D0.Up2Date
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.exe
+F:\Visual Studio 2015\Sales and Inventory System\Sales and Inventory System\obj\Debug\Sales and Inventory System.pdb
